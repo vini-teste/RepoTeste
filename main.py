@@ -7,4 +7,6 @@ def soma(x, y):
 
 print(soma(2, 5))
 
-#Teste
+#apagado
+
+#TESTANDO

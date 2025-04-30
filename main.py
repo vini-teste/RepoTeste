@@ -11,3 +11,5 @@ def mult(x, z):
     return x * z
 
 print(mult(10, 2))
+
+#bugou

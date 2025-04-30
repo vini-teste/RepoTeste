@@ -1,5 +1,3 @@
-
-print("Hello world")
 print("Testando")
 
 def soma(x, y):
@@ -9,4 +7,5 @@ print(soma(2, 5))
 
 #apagado
 
-#TESTANDO
+#TESTANDO 1 2 3 4
+

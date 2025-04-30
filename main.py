@@ -8,3 +8,5 @@ def soma(x, y):
 print(soma(2, 5))
 
 #apagado
+
+#TESTANDO

@@ -1,9 +1,6 @@
-print("Testando")
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
 
-def soma(x, y):
-    return x + y
-
-print(soma(2, 5))
-
-#apagado
-#TESTANDO 1 2 3 4
+def teste():
+    print("Testando")
